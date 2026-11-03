@@ -1,0 +1,3 @@
+feat(assistant): asistente conversacional basado en el closet
+
+AssistantEngine + pantallas del asistente y entidades de outfit/ocasion.
