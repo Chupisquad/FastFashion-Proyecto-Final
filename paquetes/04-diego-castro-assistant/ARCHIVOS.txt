@@ -1,0 +1,9 @@
+paquetes/04-diego-castro-assistant/README.md
+paquetes/04-diego-castro-assistant/ARCHIVOS.txt
+paquetes/04-diego-castro-assistant/COMMIT_MSG.txt
+lib/features/assistant/assistant_controller.dart
+lib/features/assistant/assistant_screen.dart
+lib/domain/services/assistant_engine.dart
+lib/domain/entities/outfit.dart
+lib/domain/entities/occasion.dart
+test/features/assistant_test.dart
